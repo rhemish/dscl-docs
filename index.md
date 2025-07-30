@@ -15,8 +15,8 @@ A curated collection of interactive challenges and datasets designed to help stu
 
 Clone the repository:
 
-git clone https://github.com/thomasbritnell/DSCL.git
-cd DSCL
+<pre>git clone https://github.com/thomasbritnell/DSCL.git
+cd DSCL</pre>
 
 ### Backend Server
 In the first terminal:
