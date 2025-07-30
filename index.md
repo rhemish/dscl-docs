@@ -89,8 +89,5 @@ DSCL/
 ### Contributing
 Open an issue or PR. Contributions are welcome!
 
-![MIT License](https://img.shields.io/badge/license-MIT-green)
-## License
-
+### License
 MIT License  
-See [LICENSE](./LICENSE) for details.
