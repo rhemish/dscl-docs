@@ -19,7 +19,7 @@ Clone the repository:
 git clone https://github.com/thomasbritnell/DSCL.git
 cd DSCL
 
-### 1. Backend Server
+### 1 Backend Server
 In the first terminal:
 
 cd backend
