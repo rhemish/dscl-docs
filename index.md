@@ -1,8 +1,10 @@
 # Data Science Challenge Library (DSCL)
 
+[View Project Code](https://github.com/thomasbritnell/DSCL)
+
 [View Live Site](https://rhemish.github.io/dscl-docs/)
 
-A curated collection of interactive challenges and datasets designed to help students, educators, and data science enthusiasts practice and learn fundamental to advanced AI/ML concepts. Access the live App: [https://dscl.azurewebsites.net](https://dscl.azurewebsites.net)
+A curated collection of interactive challenges and datasets designed to help students, educators, and data science enthusiasts practice and learn fundamental to advanced AI/ML concepts. This platform is intended for anyone from beginners to experienced professionals looking to test or develop their data science knowledge. Access the live App: [https://dscl.azurewebsites.net](https://dscl.azurewebsites.net)
 
 ## Features
 
@@ -14,6 +16,12 @@ A curated collection of interactive challenges and datasets designed to help stu
 ---
 
 ## Local Setup
+
+### Prerequisites
+
+- Node.js
+- Python 3.x
+  
 **Clone the repository:**
 
 <pre>```bash 
@@ -50,7 +58,7 @@ npm install  # Run once
 npm run dev
 ``` </pre>
 
-Open http://localhost:5173 to view the frontend.
+Once running, the frontend will be available at [http://localhost:5173](http://localhost:5173) (default Vite port).
 
 ## Screenshots
 
@@ -87,7 +95,7 @@ DSCL/
 - AutoML integration
 
 ### Contributing
-Open an issue or PR. Contributions are welcome!
+We welcome contributions! Please open an issue or submit a pull request with suggestions, fixes, or improvements.
 
 ### License
 MIT License  
