@@ -44,11 +44,12 @@ npm run dev
 Open http://localhost:5173 to view the frontend.
 
 ### Project Structure
-
+```
 DSCL/
-├── backend/             # Flask app and database scripts
-├── frontend/            # React + Vite frontend
-└── README.md            # You're here!
+├── backend/ # Flask app and database scripts
+├── frontend/ # React + Vite frontend
+└── README.md # You're here!
+```
 
 ### Tech Stack
 - Frontend: React + Vite + TailwindCSS
