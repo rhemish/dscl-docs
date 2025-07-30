@@ -15,11 +15,10 @@ A curated collection of interactive challenges and datasets designed to help stu
 
 Clone the repository:
 
-```bash
 git clone https://github.com/thomasbritnell/DSCL.git
 cd DSCL
 
-### 1 Backend Server
+### Backend Server
 In the first terminal:
 
 cd backend
@@ -28,14 +27,14 @@ source venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
 python app.py
 
-## Seed the Database
+### Seed the Database
 In the second terminal:
 
 cd backend
 source venv/bin/activate
 python seed_data.py
 
-## Frontend Server
+### Frontend Server
 In the third terminal:
 
 cd frontend
@@ -44,27 +43,27 @@ npm run dev
 
 Open http://localhost:5173 to view the frontend.
 
-## Project Structure
+### Project Structure
 
 DSCL/
 ├── backend/             # Flask app and database scripts
 ├── frontend/            # React + Vite frontend
 └── README.md            # You're here!
 
-## Tech Stack
+### Tech Stack
 - Frontend: React + Vite + TailwindCSS
 - Backend: Python + Flask + SQLAlchemy
 - Database: SQLite (local dev)
 - Hosting: Azure (live)
 
-## Future Plans
+### Future Plans
 - Challenge submission + leaderboard
 - User auth
 - Custom challenge uploads
 - AutoML integration
 
-## Contributing
+### Contributing
 Open an issue or PR. Contributions are welcome!
 
-## License
+### License
 MIT License
