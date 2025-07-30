@@ -43,6 +43,20 @@ npm run dev
 
 Open http://localhost:5173 to view the frontend.
 
+## Screenshots
+
+### Homepage
+
+![Homepage Screenshot](assets/homepage.png)
+
+### Challenge-detail
+
+![Homepage Screenshot](assets/challenge-detail.png)
+
+### Learning pathways
+
+![Homepage Screenshot](assets/learningpathways.png)
+
 ### Project Structure
 ```
 DSCL/
